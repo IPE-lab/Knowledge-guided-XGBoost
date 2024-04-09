@@ -1,7 +1,7 @@
 # **Knowledge-guided XGBoost**
 ## Running screenshots show
 - **Bottomhole pressure prediction results for well 2**
-  <img src="img/Bottomhole pressure prediction results for well 2.jpg" width="400" />
+- <img src="img/Bottomhole pressure prediction results for well 2.jpg" width="400" />
 ***
 ## Paper Support
 - Original information: Knowledge-Guided Machine Learning Method for Downhole Gauge Record Prediction in Deep Water Gas Field
